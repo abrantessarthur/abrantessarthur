@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Estudante de Ciência da Computação na UCB • 19 anos • Apaixonado por tecnologia
+  Estudante de Ciência da Computação na UCB • 19 anos
 </p>
 
 ---
