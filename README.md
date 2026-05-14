@@ -1,92 +1,60 @@
-# 👩🏻‍💻 Arthur Abrantes
+<h1 align="center">
+  Olá, eu sou o Arthur Abrantes 👋
+</h1>
 
-**`Desenvolvedor BackEnd`**
-
-Me chamo Arthur Abrantes tenho 19 anos. Atualmente, estou cursando Ciência Da Computação na UCB.
+<p align="center">
+  Estudante de Ciência da Computação na UCB • 19 anos • Apaixonado por tecnologia
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+Sou estudante de **Ciência da Computação** na **Universidade Católica de Brasília (UCB)**, com 19 anos e uma grande paixão por desenvolvimento de software. Estou sempre buscando aprender novas tecnologias e construir projetos que resolvam problemas reais.
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+- 🎓 Cursando **Ciência da Computação** na UCB
+- 💻 Foco em desenvolvimento **Full Stack**
+- 🌱 Sempre aprendendo e evoluindo
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring Boot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
+## 🛠️ Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<br/>
-<br/>
+### Back-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Estatísticas
+### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=abrantessarthur&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrantessarthur&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurabrantes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurabrantes&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://linkedin.com/in/arthurabrantes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seu-email@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arthurabrantes&color=blue&style=flat-square&label=Visualizações+do+perfil" alt="profile views"/>
 </p>
