@@ -38,10 +38,10 @@ Sou estudante de **Ciência da Computação** na **Universidade Católica de Bra
 <img src="https://streak-stats.demolab.com?user=abrantessarthur&theme=github-dark-blue&hide_border=false" />
 
 </div>
-
+<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abrantessarthur&theme=github_dark" />
 
-
+</div>
 ---
 
 ## 📫 Contato
