@@ -33,12 +33,10 @@ Sou estudante de **Ciência da Computação** na **Universidade Católica de Bra
 
 ---
 
-## 📊 GitHub Stats
- 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abrantessarthur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com?user=abrantessarthur&theme=tokyonight&hide_border=true&locale=pt_BR" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrantessarthur&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+
+<img src="https://streak-stats.demolab.com?user=abrantessarthur&theme=github-dark-blue&hide_border=false" />
+
 </div>
 
 ---
