@@ -36,8 +36,8 @@ Sou estudante de **Ciência da Computação** na **Universidade Católica de Bra
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurabrantes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurabrantes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abrantessarthur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrantessarthur&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -45,16 +45,16 @@ Sou estudante de **Ciência da Computação** na **Universidade Católica de Bra
 ## 📫 Contato
 
 <p align="left">
-  <a href="[https://linkedin.com/in/arthurabrantes](https://www.linkedin.com/in/arthur-abrantes-647888277/)" target="_blank">
+  <a href="https://www.linkedin.com/in/arthur-abrantes-647888277/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:abrantesarthur22@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:abrantesarthur22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurabrantes&color=blue&style=flat-square&label=Visualizações+do+perfil" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=abrantessarthur&color=blue&style=flat-square&label=Visualizações+do+perfil" alt="profile views"/>
 </p>
