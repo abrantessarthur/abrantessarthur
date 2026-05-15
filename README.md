@@ -46,9 +46,9 @@ Sou estudante de **Ciência da Computação** na **Universidade Católica de Bra
 ---
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abrantessarthur&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abrantessarthur&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
     
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abrantessarthur&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrantessarthur&layout=compact&theme=onedark&hide_border=true"/>
 </p>
 
 <p align="center">
