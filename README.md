@@ -46,13 +46,6 @@ Sou estudante de **Ciência da Computação** na **Universidade Católica de Bra
 ---
 
 <p align="center">
-    <a href="https://github.com/abrantessarthur">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tayyabadev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayyabadev&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=abrantessarthur&color=blue&style=flat-square&label=Visualizações+do+perfil" alt="profile views"/>
 </p>
  <p align="center">
