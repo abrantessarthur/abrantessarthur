@@ -45,11 +45,3 @@ Sou estudante de **Ciência da Computação** na **Universidade Católica de Bra
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abrantessarthur&color=blue&style=flat-square&label=Visualizações+do+perfil" alt="profile views"/>
-</p>
- <p align="center">
-   <a href="https://github.com/abrantessarthur"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=abrantessarthur&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
- </p>
